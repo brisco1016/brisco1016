@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brisco1016    
 - 👀 I’m interested in ...Gaming, App Development, Web Design, and anything outdoors!
-- 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Coding, blockchain Security
+- 💞️ I’m looking to collaborate on ...how to fix my own PC...
 - 📫 How to reach me ...brisco1016@gmail.com
 
 <!---
